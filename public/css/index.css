@@ -1,0 +1,26 @@
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: .3125rem;
+    list-style: none;
+}
+
+li{
+    box-shadow: 0.5px 1px 1px rgba(0, 0, 0, 0.144);
+}
+
+
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgba(255, 255, 0, 0.292);
+}

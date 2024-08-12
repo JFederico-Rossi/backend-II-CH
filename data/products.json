@@ -1,0 +1,124 @@
+[
+  {
+    "id": 3,
+    "title": "Ra IV Mens",
+    "description": "The Natural, Wild Hide Leather Oxford That Blurs Work And Play",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/3/0/305102-02_side_1.jpg?quality=100&bg-color=255%2C255%2C255&fit=bounds&height=700&width=700",
+    "price": 180,
+    "code": "Ra-IV",
+    "stock": 9
+  },
+  {
+    "title": "Primus Trail II",
+    "description": "Barefoot trail-running sneakers that double as outdoor lifestyle wear",
+    "price": "170",
+    "code": "Primus-II",
+    "stock": "5",
+    "id": 5
+  },
+  {
+    "title": "Novus Womens",
+    "description": "Barefoot trainers that fuse urban style and outdoor sole.",
+    "price": "130",
+    "code": "Novus-W",
+    "stock": "6",
+    "id": 6
+  },
+  {
+    "title": "Tracker II Firm Ground",
+    "description": "The natural alternative to normal hiking boots",
+    "price": "230",
+    "code": "Tracker-II-FG",
+    "stock": "19",
+    "id": 7
+  },
+  {
+    "title": "Gobi III",
+    "description": "Handcrafted men`s leather desert boots for footloose living.",
+    "price": 215,
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/3/0/303071-02_side.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=700&width=700",
+    "code": "Gobi-III",
+    "stock": 25,
+    "id": 8
+  },
+  {
+    "title": "Ababa II Womens",
+    "description": "Minimalist slip-ons for barefoot living.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/2/0/203010-06_side.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=700&width=700",
+    "price": 90,
+    "code": "Ababa-II",
+    "stock": 4,
+    "id": 9
+  },
+  {
+    "title": "Geo Court III Womens",
+    "description": "Barefoot trainers that tread lightly on the earth.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/2/0/201056-02_side_copy_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=700&width=700",
+    "price": 110,
+    "code": "Geo-Court-III",
+    "stock": 4,
+    "id": 10
+  },
+  {
+    "title": "Opanka Sandal Womens",
+    "description": "Barefoot sandals made from premium leather offcuts.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/2/0/203225-01_side.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=700&width=700",
+    "price": 95,
+    "code": "Opanka-Sandal",
+    "stock": 4,
+    "id": 11
+  },
+  {
+    "title": "Gobi Chelsea Womens",
+    "description": "Barefoot Chelsea boots for the re-generation.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/2/0/201432-01_side.jpg?quality=100&bg-colvscode-file://vscode-app/Users/federicorossi/Desktop/Coding/Software/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.htmlor=255,255,255&fit=bounds&height=700&width=700",
+    "price": 125,
+    "code": "Gobi-Ch-W",
+    "stock": 4,
+    "id": 12
+  },
+  {
+    "id": 13,
+    "title": "Toe Spacers",
+    "description": "Reconnect and restore the natural shape of your toes.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/9/0/900004-01_naboso_spacers_gallery_616x616.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=1418&width=2520",
+    "price": 9,
+    "code": "Toe-Sp",
+    "stock": 34
+  },
+  {
+    "title": "Toe No-Show Running Socks",
+    "description": "Our unique toesock design protects each toe from blisters, hotspots, and moisture.",
+    "thumbnail": "https://www.injinji.com/media/catalog/product/2/8/282130_nvy_front_4.png?optimize=high&fit=bounds&height=700&width=700&canvas=700:700",
+    "price": 19,
+    "code": "Run-Socks",
+    "stock": 40,
+    "id": 14
+  },
+  {
+    "title": "Toe Long Running Socks",
+    "description": "This sock delivers performance comfort with minimal bulk.",
+    "thumbnail": "https://www.injinji.com/media/catalog/product/2/0/201170_opl_3.png?optimize=high&fit=bounds&height=700&width=700&canvas=700:700",
+    "price": 20,
+    "code": "Long-Socks",
+    "stock": 42,
+    "id": 15
+  },
+  {
+    "title": "Artist Designed Running Socks - Limited Edition",
+    "description": "Unique designs from talented artists in the outdoor community.",
+    "thumbnail": "https://www.injinji.com/media/catalog/product/2/9/293471_snr_front_2.png?optimize=high&fit=bounds&height=700&width=700&canvas=700:700",
+    "price": 42,
+    "code": "Artists-Socks",
+    "stock": 14,
+    "id": 16
+  },
+  {
+    "title": "Pilgrim Boots Men",
+    "description": "Connect to earth’s energy and your inner nature",
+    "price": "330",
+    "code": "Pilgrim-Men",
+    "stock": "55",
+    "id": 17
+  }
+]
