@@ -13,7 +13,7 @@ class AuthController {
       const token = generateToken(payload);
   
       res.cookie("token", token, {
-        maxAge: 1000 * 60 * 7,
+        maxAge: 1000 * 60 * 7, // (7 minutos == token > expiresIn JWT_EXPIRATION de jwtUtils.js)
         httpOnly: true, 
       });
   

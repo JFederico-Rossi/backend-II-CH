@@ -3,7 +3,6 @@ import localStrategy from "passport-local";
 import jwt from "passport-jwt";
 import { userModel } from "../../models/user.model.js";
 import { hashPass, comparePass } from "../utils/hashUtils.js";
-import { generateToken, verifyToken } from "../utils/jwtUtils.js";
 import {JWT_SECRET} from '../utils/jwtUtils.js'
 
 const JWTStrategy = jwt.Strategy
